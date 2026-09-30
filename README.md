@@ -1,4 +1,4 @@
-# 🐍 Linguagem de Programação
+# ![Python](https://shields.io)  Linguagem de Programação | PYTHON
 
 Este repositório contém os materiais, exercícios e projetos desenvolvidos na disciplina de **Linguagem de Programação**.
 
